@@ -49,7 +49,7 @@
 
 
 // 12. Write a JavaScript program to convert temperature from Celsius to Fahrenheit and vice versa
-// let c=45;
-// let F=90;
-// console.log("celsius to fahrenhit:",( 45*(9 /5) + 32),"F")
-// console.log("Fahrenhiet to celsius:",((F -32) * 5 / 9,"C"))
+let c=45;
+let F=90;
+console.log("celsius to fahrenhit:",( 45*(9 /5) + 32),"F")
+console.log("Fahrenhiet to celsius:",((F -32) * 5 / 9),"C")

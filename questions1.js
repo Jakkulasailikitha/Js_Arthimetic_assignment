@@ -8,15 +8,21 @@
 // console.log("modulur division:",s%l);
 // console.log("floor division:",Math.floor(s/l));
 
+
+
 // 2. Take two numbers and only print the integer part when a is divided by b.
 // let s=5;
 // let l=3;
 // console.log("integer part we are doing floor division",Math.floor(s/l));
 
+
+
 // 3. Take two numbers a,b and print the exponential power of the first number raised by the second
 // let t=4;
 // let y=6;
 // console.log("expotentional:",t**y);
+
+
 
 // 4. Take two numbers a,b and only print the decimal part of the result obtained when a is divided by b.
 // let g=7;
@@ -40,7 +46,8 @@
 // profit=cp_p-sp_p;
 // console.log("profit of the product:",profit);
 
-// 7. Take a number and print out the last digit of the number.
 
+
+// 7. Take a number and print out the last digit of the number.
 // let h=1234;
 // console.log("last digit of a  given num :",h%10)
